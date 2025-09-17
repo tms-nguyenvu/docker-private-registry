@@ -1,6 +1,6 @@
 # 🚀 Triển khai Docker Private Registry trên AWS EC2
 
-Tài liệu này hướng dẫn triển khai **Docker Private Registry** trên AWS EC2 theo quy trình chuẩn cho doanh nghiệp vừa: **cơ bản, an toàn, dễ bảo trì**.
+Tài liệu này hướng dẫn triển khai **Docker Private Registry** trên AWS EC2.
 
 ---
 
